@@ -28,5 +28,6 @@ Base de Datos y Consultas SQL:
 Diseño Relacional: Creación de tablas funcionales estructuradas para clientes, productos, combos, pedidos y detalles con claves foráneas e integridad referencial.
 
 Validaciones y Reportes (QA): Consultas avanzadas utilizando `JOIN` para la integración de datos y generación de reportes de tickets de compra.
-<img width="1600" height="900" alt="Captura de pantalla (544)" src="https://github.com/user-attachments/assets/d44723c2-02ac-45e1-bc60-98159205c6ff" />
+<img width="1600" height="900" alt="Captura de pantalla (544)" src="https://github.com/user-attachments/assets/500898c4-0e92-4f46-8a48-ba6e93ac6a0a" />
+
 
