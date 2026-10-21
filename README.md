@@ -23,3 +23,7 @@ Clonar el repo Abrir como proyecto Java en Eclipse (o IDE de preferencia) Run 鈫
 
 Stack
  Java 路 JUnit 5 路 TDD
+
+Base de Datos y Consultas SQL:
+ Dise帽o Relacional: Creaci贸n de tablas funcionales estructuradas para clientes, productos, combos, pedidos y detalles con claves for谩neas e integridad referencial.
+Validaciones y Reportes (QA): Consultas avanzadas utilizando `JOIN` para la integraci贸n de datos y generaci贸n de reportes de tickets de compra.
